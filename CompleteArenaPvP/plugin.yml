@@ -1,0 +1,7 @@
+name: ArenaPvP
+author: MrToucan
+main: me.Anthony.Main
+version: 1.0
+commands:
+  ArenaPvP:
+    description: Main ArenaPvP Command.
